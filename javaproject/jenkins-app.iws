@@ -1,0 +1,1692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a24e077d-30a8-467d-8a45-4e0e49db6ae8" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jenkins-app.iws" afterPath="$PROJECT_DIR$/jenkins-app.iws" />
+    </list>
+    <ignored path="jenkins-app.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Demo.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1368043641613" ignored="false" />
+    <file path="/pom.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1383919964951" ignored="false" />
+    <file path="/Address.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1368042496964" ignored="false" />
+    <file path="/fragment.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381323940476" ignored="false" />
+    <file path="/web.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381333072288" ignored="false" />
+    <file path="/PersonResource.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1368048019314" ignored="false" />
+    <file path="/PersonService.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382367304572" ignored="false" />
+    <file path="/a.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1384933938295" ignored="false" />
+    <file path="/PersonServiceTest.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380799210414" ignored="false" />
+    <file path="/Dummy.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1396428762003" ignored="false" />
+    <file path="/PersonIT.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1383838044008" ignored="false" />
+    <file path="/a.dummy" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1384349518182" ignored="false" />
+    <file path="/MANIFEST.MF" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380112456452" ignored="false" />
+    <file path="/index.jsp" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1393947288246" ignored="false" />
+    <file path="/sonar-project.properties" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1384343907915" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/jsp/lib/jsp-impl.jar!/standardSchemas/jspxml2.xsd" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380701882589" ignored="false" />
+    <file path="/FindThePostalCode.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380871779304" ignored="false" />
+    <file path="/PersonServiceTestJUnit.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380812398600" ignored="false" />
+    <file path="/FindTheStreetName.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380874339153" ignored="false" />
+    <file path="/file2.php" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381932112951" ignored="false" />
+    <file path="/a.sql" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381311512159" ignored="false" />
+    <file path="/dummy.sql" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381311512159" ignored="false" />
+    <file path="/createtable.sql" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381311652978" ignored="false" />
+    <file path="/dbtest.jsp" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381331587607" ignored="false" />
+    <file path="/dbtest2.jsp" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381331777559" ignored="false" />
+    <file path="$PROJECT_DIR$/demo-web-app/src/main/java/dbtestservlet.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381332603224" ignored="false" />
+    <file path="$PROJECT_DIR$/demo-web-app/src/main/java/testservlet/TestJndiServlet/Java.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381332706350" ignored="false" />
+    <file path="/TestJndiServlet.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382366406330" ignored="false" />
+    <file path="/MySqlTest" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381823623943" ignored="false" />
+    <file path="/insert_row.sql" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381748386145" ignored="false" />
+    <file path="/insert_row2.sql" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381749153321" ignored="false" />
+    <file path="/4-insert-row4.sql" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381758033754" ignored="false" />
+    <file path="/a.regexp" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381822851907" ignored="false" />
+    <file path="/01-insert-row-rollback.sql" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381823662767" ignored="false" />
+    <file path="/04-insert-row4-rollback.sql" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381823715312" ignored="false" />
+    <file path="/05-insert-row5-rollback.sql" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381823737477" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../EXTERNAL/Ziggo/2013/code/ziggo-cms/site/src/main/webapp/META-INF/context.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381828707462" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../EXTERNAL/Ziggo/2013/code/ziggo-cms/site/src/main/webapp/WEB-INF/web.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381828707462" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../EXTERNAL/Ziggo/2013/code/ziggo-cms/conf/context-mysql.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381828707462" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../EXTERNAL/Ziggo/2013/code/ziggo-cms/src/main/assembly/distribution.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381828707462" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../EXTERNAL/Ziggo/2013/code/ziggo-cms/cms/src/main/webapp/WEB-INF/web.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381828707462" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../EXTERNAL/Ziggo/2013/code/ziggo-cms/conf/log4j-dev.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381828707463" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../EXTERNAL/Ziggo/2013/code/ziggo-cms/site/src/test/resources/log4j.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381828707463" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../EXTERNAL/Ziggo/2013/code/ziggo-cms/conf/log4j-prod.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381828707463" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../EXTERNAL/Ziggo/2013/code/ziggo-cms/conf/repository.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381828707463" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../EXTERNAL/Ziggo/2013/code/ziggo-cms/conf/context.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381828707463" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../EXTERNAL/Ziggo/2013/code/ziggo-cms/cms/pom.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381828707463" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../EXTERNAL/Ziggo/2013/code/ziggo-cms/site/src/main/resources/META-INF/client-assembly/base.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381828707463" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../EXTERNAL/Ziggo/2013/code/ziggo-cms/site/src/main/resources/META-INF/hst-assembly/overrides/hst-cms-rest.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381828707463" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../EXTERNAL/Ziggo/2013/code/ziggo-cms/site/src/main/resources/META-INF/hst-assembly/overrides/template-composer-rest.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381828707463" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../EXTERNAL/Ziggo/2013/code/ziggo-cms/pom.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381996670807" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../EXTERNAL/Ziggo/2013/code/ziggo-cms/.idea/workspace.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1384429550912" ignored="false" />
+    <file path="/file1.php" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381932102015" ignored="false" />
+    <file path="/file6.php" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381913721073" ignored="false" />
+    <file path="/file5.php" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381913729225" ignored="false" />
+    <file path="/file9.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381932237021" ignored="false" />
+    <file path="/configfile.ini" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381932249716" ignored="false" />
+    <file path="/file3.php" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381932187702" ignored="false" />
+    <file path="/file4.php" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381932202629" ignored="false" />
+    <file path="/PersonServiceJUnitOneTest.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381994754005" ignored="false" />
+    <file path="/06-insert-row6.sql" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382012246326" ignored="false" />
+    <file path="/06-insert-row6-rollback.sql" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382012258838" ignored="false" />
+    <file path="/07-insert-row7.sql" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382339349589" ignored="false" />
+    <file path="/07-insert-row7-rollback.sql" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382339360292" ignored="false" />
+    <file path="/08-insert-row8.sql" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382424546553" ignored="false" />
+    <file path="/08-insert-row8-rollback.sql" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382424557270" ignored="false" />
+    <file path="/09-insert-row9.sql" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1393413077969" ignored="false" />
+    <file path="/09-insert-row9-rollback.sql" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1393413128528" ignored="false" />
+    <file path="$PROJECT_DIR$/../git_ziggo_cd/ziggo-continuous-delivery/jenkins-app.iws" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1395669113952" ignored="false" />
+    <file path="$PROJECT_DIR$/../git_ziggo_cd/ziggo-continuous-delivery/demo-integration-test/src/test/java/demo/PersonIT.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1383838075155" ignored="false" />
+    <file path="$PROJECT_DIR$/../git_ziggo_cd/ziggo-continuous-delivery/demo-integration-test/pom.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1383837970701" ignored="false" />
+    <file path="$MAVEN_REPOSITORY$/org/onehippo/cms7/hippo-cms7-project/22.2/hippo-cms7-project-22.2.pom" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1384265729135" ignored="false" />
+    <file path="$USER_HOME$/.m2/settings.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1384265729136" ignored="false" />
+    <file path="$PROJECT_DIR$/../git_ziggo_cd/ziggo-continuous-delivery/README.md" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1393401067983" ignored="false" />
+    <file path="/10-remove-a-row10.sql" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1393413195331" ignored="false" />
+    <file path="/test.properties" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1394035123672" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DatabaseView">
+    <flatten value="false" />
+    <groupTables value="false" />
+    <sortChildren value="false" />
+  </component>
+  <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="jenkins-app" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom_orig.xml" />
+        <option value="$PROJECT_DIR$/demo-web-app/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-integration-test/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-integration-test/src/test/java/demo/PersonIT.java" />
+        <option value="$PROJECT_DIR$/demo-php-files-mvn/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-web-app/test.tld" />
+        <option value="$PROJECT_DIR$/sonar-project.properties" />
+        <option value="db-console:/jenkins-app78eef0a2/3d317c41-9fec-466f-9353-d0014b4e374b/" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/demo-web-app/src/main/scripts/09-insert-row9.sql" />
+        <option value="$PROJECT_DIR$/demo-web-app/src/main/scripts/09-insert-row9-rollback.sql" />
+        <option value="$PROJECT_DIR$/demo-web-app/src/main/scripts/10-remove-a-row10.sql" />
+        <option value="$PROJECT_DIR$/demo-web-app/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/demo-web-app/src/text.tld" />
+        <option value="$PROJECT_DIR$/demo-web-app/src/test.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="project" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="demo-web-app Maven Webapp" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="demo-php-files-mvn" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="demo-integration-test" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1680" />
+    <option name="height" value="971" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers ProjectPane="true" />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git_cd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git_cd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo-web-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git_cd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo-web-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git_cd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo-web-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git_cd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo-web-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git_cd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo-web-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo-php-files.phpfiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo-php-files.phpfiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo-web-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo-integration-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_directory_selection" value="$PROJECT_DIR$/demo-web-app/src" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit3" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="MavenSettings" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/demo-web-app/src/main/scripts" />
+    <property name="project.structure.side.proportion" value="0.21321794" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="Database.TableEditor.Splitter" value="0.7196871" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="demo.services" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="fixtures" />
+      <recent name="demo" />
+      <recent name="demo.fixtures" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/demo-web-app/src/main/scripts" />
+      <recent name="$PROJECT_DIR$/demo-integration-test" />
+      <recent name="$PROJECT_DIR$/demo-php-files-mvn/src/main/resources" />
+      <recent name="$PROJECT_DIR$/demo-php-files-mvn" />
+      <recent name="$PROJECT_DIR$/demo-web-app" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="demo.services" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/demo-web-app/src/main/scripts" />
+      <recent name="$PROJECT_DIR$/demo-web-app/src/test/java/demo" />
+      <recent name="$PROJECT_DIR$/demo-web-app/src/test/java" />
+      <recent name="$PROJECT_DIR$/demo-integration-test/src/test/java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.verify jenkins-app">
+    <configuration default="false" name="PersonIT" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="demo-integration-test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="demo" />
+      <option name="MAIN_CLASS_NAME" value="demo.PersonIT" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="PersonIT.test" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="demo-integration-test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="PACKAGE_NAME" value="demo" />
+      <option name="MAIN_CLASS_NAME" value="demo.PersonIT" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
+    <configuration default="false" name="verify jenkins-app" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="verify" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/demo-integration-test" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Maven.verify jenkins-app" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.PersonIT" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.PersonIT.test" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.PersonIT.test" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.PersonIT" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="false">C:\Users\herbert\AppData\Roaming\Subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a24e077d-30a8-467d-8a45-4e0e49db6ae8" name="Default" comment="" />
+      <created>1368041438492</created>
+      <updated>1368041438492</updated>
+    </task>
+    <task id="LOCAL-00001" summary="new test, MANIFEST INCLUDED">
+      <created>1380111930398</created>
+      <updated>1380111930398</updated>
+    </task>
+    <task id="LOCAL-00002" summary="new test, MANIFEST INCLUDED">
+      <created>1380112475895</created>
+      <updated>1380112475895</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new test, MANIFEST INCLUDED">
+      <created>1380178796073</created>
+      <updated>1380178796073</updated>
+    </task>
+    <task id="LOCAL-00004" summary="new test, MANIFEST INCLUDED">
+      <created>1380179190039</created>
+      <updated>1380179190039</updated>
+    </task>
+    <task id="LOCAL-00005" summary="new test, MANIFEST INCLUDED">
+      <created>1380291350676</created>
+      <updated>1380291350676</updated>
+    </task>
+    <task id="LOCAL-00006" summary="new test, MANIFEST INCLUDED">
+      <created>1380291654393</created>
+      <updated>1380291654393</updated>
+    </task>
+    <task id="LOCAL-00007" summary="new test, MANIFEST INCLUDED">
+      <created>1380292234321</created>
+      <updated>1380292234321</updated>
+    </task>
+    <task id="LOCAL-00008" summary="new test, MANIFEST INCLUDED">
+      <created>1380541671203</created>
+      <updated>1380541671203</updated>
+    </task>
+    <task id="LOCAL-00009" summary="new test, MANIFEST INCLUDED">
+      <created>1380542908502</created>
+      <updated>1380542908502</updated>
+    </task>
+    <task id="LOCAL-00010" summary="new test, MANIFEST INCLUDED">
+      <created>1380543174511</created>
+      <updated>1380543174511</updated>
+    </task>
+    <task id="LOCAL-00011" summary="new test, MANIFEST INCLUDED">
+      <created>1380550585735</created>
+      <updated>1380550585735</updated>
+    </task>
+    <task id="LOCAL-00012" summary="new test, MANIFEST INCLUDED">
+      <created>1380550877564</created>
+      <updated>1380550877564</updated>
+    </task>
+    <task id="LOCAL-00013" summary="new test, MANIFEST INCLUDED">
+      <created>1380553280982</created>
+      <updated>1380553280982</updated>
+    </task>
+    <task id="LOCAL-00014" summary="new test, MANIFEST INCLUDED">
+      <created>1380553792630</created>
+      <updated>1380553792630</updated>
+    </task>
+    <task id="LOCAL-00015" summary="new test, MANIFEST INCLUDED">
+      <created>1380557137381</created>
+      <updated>1380557137381</updated>
+    </task>
+    <task id="LOCAL-00016" summary="new test, MANIFEST INCLUDED">
+      <created>1380558561364</created>
+      <updated>1380558561364</updated>
+    </task>
+    <task id="LOCAL-00017" summary="new test, MANIFEST INCLUDED">
+      <created>1380638508498</created>
+      <updated>1380638508498</updated>
+    </task>
+    <task id="LOCAL-00018" summary="new test, MANIFEST INCLUDED">
+      <created>1380641389986</created>
+      <updated>1380641389986</updated>
+    </task>
+    <task id="LOCAL-00019" summary="new test, MANIFEST INCLUDED">
+      <created>1380641440483</created>
+      <updated>1380641440483</updated>
+    </task>
+    <task id="LOCAL-00020" summary="new test, MANIFEST INCLUDED">
+      <created>1380641501130</created>
+      <updated>1380641501130</updated>
+    </task>
+    <task id="LOCAL-00021" summary="new test, MANIFEST INCLUDED">
+      <created>1380641700280</created>
+      <updated>1380641700280</updated>
+    </task>
+    <task id="LOCAL-00022" summary="new test, MANIFEST INCLUDED">
+      <created>1380701870684</created>
+      <updated>1380701870684</updated>
+    </task>
+    <task id="LOCAL-00023" summary="new test, MANIFEST INCLUDED">
+      <created>1380701900888</created>
+      <updated>1380701900888</updated>
+    </task>
+    <task id="LOCAL-00024" summary="new test, MANIFEST INCLUDED">
+      <created>1380715602778</created>
+      <updated>1380715602778</updated>
+    </task>
+    <task id="LOCAL-00025" summary="new test, MANIFEST INCLUDED">
+      <created>1380715613450</created>
+      <updated>1380715613450</updated>
+    </task>
+    <task id="LOCAL-00026" summary="new test, MANIFEST INCLUDED">
+      <created>1380723500907</created>
+      <updated>1380723500907</updated>
+    </task>
+    <task id="LOCAL-00027" summary="new test, MANIFEST INCLUDED">
+      <created>1380724480116</created>
+      <updated>1380724480116</updated>
+    </task>
+    <task id="LOCAL-00028" summary="new test, MANIFEST INCLUDED">
+      <created>1380726018639</created>
+      <updated>1380726018639</updated>
+    </task>
+    <task id="LOCAL-00029" summary="new test, MANIFEST INCLUDED">
+      <created>1380727565788</created>
+      <updated>1380727565788</updated>
+    </task>
+    <task id="LOCAL-00030" summary="new test, MANIFEST INCLUDED">
+      <created>1380727760375</created>
+      <updated>1380727760375</updated>
+    </task>
+    <task id="LOCAL-00031" summary="new test, MANIFEST INCLUDED">
+      <created>1380784554981</created>
+      <updated>1380784554981</updated>
+    </task>
+    <task id="LOCAL-00032" summary="new test, MANIFEST INCLUDED">
+      <created>1380785695995</created>
+      <updated>1380785695995</updated>
+    </task>
+    <task id="LOCAL-00033" summary="new test, MANIFEST INCLUDED">
+      <created>1380788576380</created>
+      <updated>1380788576380</updated>
+    </task>
+    <task id="LOCAL-00034" summary="new test, MANIFEST INCLUDED">
+      <created>1380789030441</created>
+      <updated>1380789030441</updated>
+    </task>
+    <task id="LOCAL-00035" summary="new test, MANIFEST INCLUDED">
+      <created>1380789165288</created>
+      <updated>1380789165288</updated>
+    </task>
+    <task id="LOCAL-00036" summary="new test, MANIFEST INCLUDED">
+      <created>1380789545631</created>
+      <updated>1380789545631</updated>
+    </task>
+    <task id="LOCAL-00037" summary="new test, MANIFEST INCLUDED">
+      <created>1380790550315</created>
+      <updated>1380790550315</updated>
+    </task>
+    <task id="LOCAL-00038" summary="new test, MANIFEST INCLUDED">
+      <created>1380798565776</created>
+      <updated>1380798565776</updated>
+    </task>
+    <task id="LOCAL-00039" summary="new test, MANIFEST INCLUDED">
+      <created>1380799243895</created>
+      <updated>1380799243895</updated>
+    </task>
+    <task id="LOCAL-00040" summary="new test, MANIFEST INCLUDED">
+      <created>1380805187648</created>
+      <updated>1380805187648</updated>
+    </task>
+    <task id="LOCAL-00041" summary="new test, MANIFEST INCLUDED">
+      <created>1380809004880</created>
+      <updated>1380809004880</updated>
+    </task>
+    <task id="LOCAL-00042" summary="new test, MANIFEST INCLUDED">
+      <created>1380809864862</created>
+      <updated>1380809864862</updated>
+    </task>
+    <task id="LOCAL-00043" summary="new test, MANIFEST INCLUDED">
+      <created>1380810402773</created>
+      <updated>1380810402773</updated>
+    </task>
+    <task id="LOCAL-00044" summary="new test, MANIFEST INCLUDED">
+      <created>1380810518782</created>
+      <updated>1380810518782</updated>
+    </task>
+    <task id="LOCAL-00045" summary="new test, MANIFEST INCLUDED">
+      <created>1380810530686</created>
+      <updated>1380810530686</updated>
+    </task>
+    <task id="LOCAL-00046" summary="new test, MANIFEST INCLUDED">
+      <created>1380810617361</created>
+      <updated>1380810617361</updated>
+    </task>
+    <task id="LOCAL-00047" summary="new test, MANIFEST INCLUDED">
+      <created>1380812301007</created>
+      <updated>1380812301007</updated>
+    </task>
+    <task id="LOCAL-00048" summary="new test, MANIFEST INCLUDED">
+      <created>1380812481723</created>
+      <updated>1380812481723</updated>
+    </task>
+    <task id="LOCAL-00049" summary="new test, MANIFEST INCLUDED">
+      <created>1380812603900</created>
+      <updated>1380812603900</updated>
+    </task>
+    <task id="LOCAL-00050" summary="new test, MANIFEST INCLUDED">
+      <created>1380814154594</created>
+      <updated>1380814154595</updated>
+    </task>
+    <task id="LOCAL-00051" summary="new test, MANIFEST INCLUDED">
+      <created>1380814463406</created>
+      <updated>1380814463406</updated>
+    </task>
+    <task id="LOCAL-00052" summary="new test, MANIFEST INCLUDED">
+      <created>1380814557593</created>
+      <updated>1380814557593</updated>
+    </task>
+    <task id="LOCAL-00053" summary="new test, MANIFEST INCLUDED">
+      <created>1380814972959</created>
+      <updated>1380814972959</updated>
+    </task>
+    <task id="LOCAL-00054" summary="new test, MANIFEST INCLUDED">
+      <created>1380815154305</created>
+      <updated>1380815154309</updated>
+    </task>
+    <task id="LOCAL-00055" summary="new test, MANIFEST INCLUDED">
+      <created>1380815733179</created>
+      <updated>1380815733180</updated>
+    </task>
+    <task id="LOCAL-00056" summary="new test, MANIFEST INCLUDED">
+      <created>1380815949979</created>
+      <updated>1380815949979</updated>
+    </task>
+    <task id="LOCAL-00057" summary="new test, MANIFEST INCLUDED">
+      <created>1380816096430</created>
+      <updated>1380816096430</updated>
+    </task>
+    <task id="LOCAL-00058" summary="new test, MANIFEST INCLUDED">
+      <created>1380871837699</created>
+      <updated>1380871837700</updated>
+    </task>
+    <task id="LOCAL-00059" summary="new test, MANIFEST INCLUDED">
+      <created>1380873964379</created>
+      <updated>1380873964379</updated>
+    </task>
+    <task id="LOCAL-00060" summary="new test, MANIFEST INCLUDED">
+      <created>1380874398209</created>
+      <updated>1380874398210</updated>
+    </task>
+    <task id="LOCAL-00061" summary="new test, MANIFEST INCLUDED">
+      <created>1380874470033</created>
+      <updated>1380874470034</updated>
+    </task>
+    <task id="LOCAL-00062" summary="new test, MANIFEST INCLUDED">
+      <created>1380893743761</created>
+      <updated>1380893743761</updated>
+    </task>
+    <task id="LOCAL-00063" summary="new test, MANIFEST INCLUDED">
+      <created>1381149638024</created>
+      <updated>1381149638024</updated>
+    </task>
+    <task id="LOCAL-00064" summary="new test, MANIFEST INCLUDED">
+      <created>1381151049041</created>
+      <updated>1381151049041</updated>
+    </task>
+    <task id="LOCAL-00065" summary="new test, MANIFEST INCLUDED">
+      <created>1381228028297</created>
+      <updated>1381228028297</updated>
+    </task>
+    <task id="LOCAL-00066" summary="new test, MANIFEST INCLUDED">
+      <created>1381306834231</created>
+      <updated>1381306834231</updated>
+    </task>
+    <task id="LOCAL-00067" summary="new test, MANIFEST INCLUDED">
+      <created>1381311753112</created>
+      <updated>1381311753112</updated>
+    </task>
+    <task id="LOCAL-00068" summary="new test, MANIFEST INCLUDED">
+      <created>1381326714731</created>
+      <updated>1381326714732</updated>
+    </task>
+    <task id="LOCAL-00069" summary="new test, MANIFEST INCLUDED">
+      <created>1381329455414</created>
+      <updated>1381329455415</updated>
+    </task>
+    <task id="LOCAL-00070" summary="new test, MANIFEST INCLUDED">
+      <created>1381329743407</created>
+      <updated>1381329743407</updated>
+    </task>
+    <task id="LOCAL-00071" summary="new test, MANIFEST INCLUDED">
+      <created>1381331410117</created>
+      <updated>1381331410118</updated>
+    </task>
+    <task id="LOCAL-00072" summary="new test, MANIFEST INCLUDED">
+      <created>1381499198482</created>
+      <updated>1381499198482</updated>
+    </task>
+    <task id="LOCAL-00073" summary="new test, MANIFEST INCLUDED">
+      <created>1381737342781</created>
+      <updated>1381737342782</updated>
+    </task>
+    <task id="LOCAL-00074" summary="new test, MANIFEST INCLUDED">
+      <created>1381747366953</created>
+      <updated>1381747366954</updated>
+    </task>
+    <task id="LOCAL-00075" summary="new test, MANIFEST INCLUDED">
+      <created>1381748408319</created>
+      <updated>1381748408320</updated>
+    </task>
+    <task id="LOCAL-00076" summary="new test, MANIFEST INCLUDED">
+      <created>1381749186588</created>
+      <updated>1381749186588</updated>
+    </task>
+    <task id="LOCAL-00077" summary="new test, MANIFEST INCLUDED">
+      <created>1381751512629</created>
+      <updated>1381751512630</updated>
+    </task>
+    <task id="LOCAL-00078" summary="new test, MANIFEST INCLUDED">
+      <created>1381757350187</created>
+      <updated>1381757350187</updated>
+    </task>
+    <task id="LOCAL-00079" summary="new test, MANIFEST INCLUDED">
+      <created>1381758046030</created>
+      <updated>1381758046030</updated>
+    </task>
+    <task id="LOCAL-00080" summary="new test, MANIFEST INCLUDED">
+      <created>1381761415954</created>
+      <updated>1381761415955</updated>
+    </task>
+    <task id="LOCAL-00081" summary="new test, MANIFEST INCLUDED">
+      <created>1381823781447</created>
+      <updated>1381823781447</updated>
+    </task>
+    <task id="LOCAL-00082" summary="new test, MANIFEST INCLUDED">
+      <created>1381914002860</created>
+      <updated>1381914002860</updated>
+    </task>
+    <task id="LOCAL-00083" summary="new test, MANIFEST INCLUDED">
+      <created>1381915959148</created>
+      <updated>1381915959148</updated>
+    </task>
+    <task id="LOCAL-00084" summary="new test, MANIFEST INCLUDED">
+      <created>1381921228969</created>
+      <updated>1381921228969</updated>
+    </task>
+    <task id="LOCAL-00085" summary="new test, MANIFEST INCLUDED">
+      <created>1381929219466</created>
+      <updated>1381929219466</updated>
+    </task>
+    <task id="LOCAL-00086" summary="new test, MANIFEST INCLUDED">
+      <created>1381930622326</created>
+      <updated>1381930622326</updated>
+    </task>
+    <task id="LOCAL-00087" summary="new test, MANIFEST INCLUDED">
+      <created>1381931219535</created>
+      <updated>1381931219535</updated>
+    </task>
+    <task id="LOCAL-00088" summary="new test, MANIFEST INCLUDED">
+      <created>1381932742131</created>
+      <updated>1381932742131</updated>
+    </task>
+    <task id="LOCAL-00089" summary="new test, MANIFEST INCLUDED">
+      <created>1382011474368</created>
+      <updated>1382011474368</updated>
+    </task>
+    <task id="LOCAL-00090" summary="new test, MANIFEST INCLUDED">
+      <created>1382012218914</created>
+      <updated>1382012218914</updated>
+    </task>
+    <task id="LOCAL-00091" summary="new test, MANIFEST INCLUDED">
+      <created>1382012267661</created>
+      <updated>1382012267661</updated>
+    </task>
+    <task id="LOCAL-00092" summary="new test, MANIFEST INCLUDED">
+      <created>1382339377034</created>
+      <updated>1382339377034</updated>
+    </task>
+    <task id="LOCAL-00093" summary="new test, MANIFEST INCLUDED">
+      <created>1382343935352</created>
+      <updated>1382343935353</updated>
+    </task>
+    <task id="LOCAL-00094" summary="new test, MANIFEST INCLUDED">
+      <created>1382343945671</created>
+      <updated>1382343945672</updated>
+    </task>
+    <task id="LOCAL-00095" summary="new test, MANIFEST INCLUDED">
+      <created>1382353447327</created>
+      <updated>1382353447328</updated>
+    </task>
+    <task id="LOCAL-00096" summary="new test, MANIFEST INCLUDED">
+      <created>1382365281330</created>
+      <updated>1382365281330</updated>
+    </task>
+    <task id="LOCAL-00097" summary="new test, MANIFEST INCLUDED">
+      <created>1382365554567</created>
+      <updated>1382365554568</updated>
+    </task>
+    <task id="LOCAL-00098" summary="new test, MANIFEST INCLUDED">
+      <created>1382366603874</created>
+      <updated>1382366603874</updated>
+    </task>
+    <task id="LOCAL-00099" summary="new test, MANIFEST INCLUDED">
+      <created>1382367317470</created>
+      <updated>1382367317470</updated>
+    </task>
+    <task id="LOCAL-00100" summary="new test, MANIFEST INCLUDED">
+      <created>1382367740590</created>
+      <updated>1382367740590</updated>
+    </task>
+    <task id="LOCAL-00101" summary="new test, MANIFEST INCLUDED">
+      <created>1382367873787</created>
+      <updated>1382367873787</updated>
+    </task>
+    <task id="LOCAL-00102" summary="new test, MANIFEST INCLUDED">
+      <created>1382368599175</created>
+      <updated>1382368599175</updated>
+    </task>
+    <task id="LOCAL-00103" summary="new test, MANIFEST INCLUDED">
+      <created>1382424219793</created>
+      <updated>1382424219794</updated>
+    </task>
+    <task id="LOCAL-00104" summary="new test, MANIFEST INCLUDED">
+      <created>1382424572538</created>
+      <updated>1382424572538</updated>
+    </task>
+    <task id="LOCAL-00105" summary="new test, MANIFEST INCLUDED">
+      <created>1382452557467</created>
+      <updated>1382452557467</updated>
+    </task>
+    <task id="LOCAL-00106" summary="new test, MANIFEST INCLUDED">
+      <created>1382517010153</created>
+      <updated>1382517010153</updated>
+    </task>
+    <task id="LOCAL-00107" summary="new test, MANIFEST INCLUDED">
+      <created>1382519414984</created>
+      <updated>1382519414985</updated>
+    </task>
+    <task id="LOCAL-00108" summary="new test, MANIFEST INCLUDED">
+      <created>1382963448157</created>
+      <updated>1382963448158</updated>
+    </task>
+    <task id="LOCAL-00109" summary="new test, MANIFEST INCLUDED">
+      <created>1382963470888</created>
+      <updated>1382963470888</updated>
+    </task>
+    <task id="LOCAL-00110" summary="new test, MANIFEST INCLUDED">
+      <created>1382963587818</created>
+      <updated>1382963587818</updated>
+    </task>
+    <task id="LOCAL-00111" summary="new test, MANIFEST INCLUDED">
+      <created>1382963664282</created>
+      <updated>1382963664282</updated>
+    </task>
+    <task id="LOCAL-00112" summary="new test, MANIFEST INCLUDED">
+      <created>1382964016371</created>
+      <updated>1382964016371</updated>
+    </task>
+    <task id="LOCAL-00113" summary="new test, MANIFEST INCLUDED">
+      <created>1382964459630</created>
+      <updated>1382964459630</updated>
+    </task>
+    <task id="LOCAL-00114" summary="new test, MANIFEST INCLUDED">
+      <created>1382967819789</created>
+      <updated>1382967819789</updated>
+    </task>
+    <task id="LOCAL-00115" summary="new test, MANIFEST INCLUDED">
+      <created>1382969216593</created>
+      <updated>1382969216593</updated>
+    </task>
+    <task id="LOCAL-00116" summary="new test, MANIFEST INCLUDED">
+      <created>1382969651474</created>
+      <updated>1382969651475</updated>
+    </task>
+    <task id="LOCAL-00117" summary="new test, MANIFEST INCLUDED">
+      <created>1382970054324</created>
+      <updated>1382970054325</updated>
+    </task>
+    <task id="LOCAL-00118" summary="new test, MANIFEST INCLUDED">
+      <created>1382970222025</created>
+      <updated>1382970222026</updated>
+    </task>
+    <task id="LOCAL-00119" summary="new test, MANIFEST INCLUDED">
+      <created>1382970579707</created>
+      <updated>1382970579708</updated>
+    </task>
+    <task id="LOCAL-00120" summary="new test, MANIFEST INCLUDED">
+      <created>1382971391108</created>
+      <updated>1382971391109</updated>
+    </task>
+    <task id="LOCAL-00121" summary="new test, MANIFEST INCLUDED">
+      <created>1382972162464</created>
+      <updated>1382972162464</updated>
+    </task>
+    <task id="LOCAL-00122" summary="new test, MANIFEST INCLUDED">
+      <created>1382972606467</created>
+      <updated>1382972606468</updated>
+    </task>
+    <task id="LOCAL-00123" summary="new test, MANIFEST INCLUDED">
+      <created>1382973428955</created>
+      <updated>1382973428955</updated>
+    </task>
+    <task id="LOCAL-00124" summary="new test, MANIFEST INCLUDED">
+      <created>1382973927799</created>
+      <updated>1382973927800</updated>
+    </task>
+    <task id="LOCAL-00125" summary="new test, MANIFEST INCLUDED">
+      <created>1382974154358</created>
+      <updated>1382974154359</updated>
+    </task>
+    <task id="LOCAL-00126" summary="new test, MANIFEST INCLUDED">
+      <created>1382978007265</created>
+      <updated>1382978007265</updated>
+    </task>
+    <task id="LOCAL-00127" summary="new test, MANIFEST INCLUDED">
+      <created>1383038967787</created>
+      <updated>1383038967787</updated>
+    </task>
+    <task id="LOCAL-00128" summary="new test, MANIFEST INCLUDED">
+      <created>1383040153937</created>
+      <updated>1383040153937</updated>
+    </task>
+    <task id="LOCAL-00129" summary="new test, MANIFEST INCLUDED">
+      <created>1383041441103</created>
+      <updated>1383041441103</updated>
+    </task>
+    <task id="LOCAL-00130" summary="new test, MANIFEST INCLUDED">
+      <created>1383041723119</created>
+      <updated>1383041723120</updated>
+    </task>
+    <task id="LOCAL-00131" summary="new test, MANIFEST INCLUDED">
+      <created>1383047636785</created>
+      <updated>1383047636785</updated>
+    </task>
+    <task id="LOCAL-00132" summary="new test, MANIFEST INCLUDED">
+      <created>1383048041628</created>
+      <updated>1383048041629</updated>
+    </task>
+    <task id="LOCAL-00133" summary="new test, MANIFEST INCLUDED">
+      <created>1383297241569</created>
+      <updated>1383297241570</updated>
+    </task>
+    <task id="LOCAL-00134" summary="new test, MANIFEST INCLUDED">
+      <created>1383298292004</created>
+      <updated>1383298292004</updated>
+    </task>
+    <task id="LOCAL-00135" summary="new test, MANIFEST INCLUDED">
+      <created>1383298543344</created>
+      <updated>1383298543344</updated>
+    </task>
+    <task id="LOCAL-00136" summary="new test, MANIFEST INCLUDED">
+      <created>1383312669372</created>
+      <updated>1383312669372</updated>
+    </task>
+    <task id="LOCAL-00137" summary="new test, MANIFEST INCLUDED">
+      <created>1383833188891</created>
+      <updated>1383833188891</updated>
+    </task>
+    <task id="LOCAL-00138" summary="new test, MANIFEST INCLUDED">
+      <created>1383835537843</created>
+      <updated>1383835537843</updated>
+    </task>
+    <task id="LOCAL-00139" summary="new test, MANIFEST INCLUDED">
+      <created>1383835712187</created>
+      <updated>1383835712187</updated>
+    </task>
+    <task id="LOCAL-00140" summary="new test, MANIFEST INCLUDED">
+      <created>1383836423581</created>
+      <updated>1383836423581</updated>
+    </task>
+    <task id="LOCAL-00141" summary="new test, MANIFEST INCLUDED">
+      <created>1383836466743</created>
+      <updated>1383836466743</updated>
+    </task>
+    <task id="LOCAL-00142" summary="new test, MANIFEST INCLUDED">
+      <created>1383836724992</created>
+      <updated>1383836724992</updated>
+    </task>
+    <task id="LOCAL-00143" summary="new test, MANIFEST INCLUDED">
+      <created>1383838111237</created>
+      <updated>1383838111237</updated>
+    </task>
+    <task id="LOCAL-00144" summary="new test, MANIFEST INCLUDED">
+      <created>1384430450962</created>
+      <updated>1384430450962</updated>
+    </task>
+    <task id="LOCAL-00145" summary="updated readme to include it can be used for demo purposes">
+      <created>1393401099061</created>
+      <updated>1393401099061</updated>
+    </task>
+    <task id="LOCAL-00146" summary="updated doc root page to welcome stater">
+      <created>1393406273827</created>
+      <updated>1393406273827</updated>
+    </task>
+    <task id="LOCAL-00147" summary="Added insert statement for Mysql database and one remove statement">
+      <created>1393413236485</created>
+      <updated>1393413236485</updated>
+    </task>
+    <task id="LOCAL-00148" summary="Changes home message to Hello Michiel">
+      <created>1393840760053</created>
+      <updated>1393840760053</updated>
+    </task>
+    <task id="LOCAL-00149" summary="Changes home message to Hello Stater">
+      <created>1393947399276</created>
+      <updated>1393947399276</updated>
+    </task>
+    <task id="LOCAL-00150" summary="Changes home message to Hello Stater">
+      <created>1393947542715</created>
+      <updated>1393947542716</updated>
+    </task>
+    <option name="localTasksCounter" value="151" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1680" height="971" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17233294" sideWeight="0.99082005" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1499388" sideWeight="0.8309693" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16903073" sideWeight="0.0091799265" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32797858" sideWeight="0.4996587" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3496034" sideWeight="0.26439482" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.07520564" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34962872" sideWeight="0.26439482" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15353371" sideWeight="0.76086956" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24908201" sideWeight="0.82766706" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32534248" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33019978" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TunnelliJ" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24206816" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes home message to Hello Stater" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="new test, MANIFEST INCLUDED" />
+    <MESSAGE value="updated readme to include it can be used for demo purposes" />
+    <MESSAGE value="updated doc root page to welcome stater" />
+    <MESSAGE value="Added insert statement for Mysql database and one remove statement" />
+    <MESSAGE value="Changes home message to Hello Michiel" />
+    <MESSAGE value="Changes home message to Hello Stater" />
+  </component>
+  <component name="VssConfiguration">
+    <option name="CLIENT_PATH" value="" />
+    <option name="SRCSAFEINI_PATH" value="" />
+    <option name="USER_NAME" value="" />
+    <option name="PWD" value="" />
+    <CheckoutOptions>
+      <option name="COMMENT" value="" />
+      <option name="DO_NOT_GET_LATEST_VERSION" value="false" />
+      <option name="REPLACE_WRITABLE" value="false" />
+      <option name="RECURSIVE" value="false" />
+    </CheckoutOptions>
+    <CheckinOptions>
+      <option name="COMMENT" value="" />
+      <option name="KEEP_CHECKED_OUT" value="false" />
+      <option name="RECURSIVE" value="false" />
+    </CheckinOptions>
+    <AddOptions>
+      <option name="STORE_ONLY_LATEST_VERSION" value="false" />
+      <option name="CHECK_OUT_IMMEDIATELY" value="false" />
+    </AddOptions>
+    <UndocheckoutOptions>
+      <option name="MAKE_WRITABLE" value="false" />
+      <option name="REPLACE_LOCAL_COPY" value="2" />
+      <option name="RECURSIVE" value="false" />
+    </UndocheckoutOptions>
+    <GetOptions>
+      <option name="REPLACE_WRITABLE" value="0" />
+      <option name="MAKE_WRITABLE" value="false" />
+      <option name="ANSWER_NEGATIVELY" value="false" />
+      <option name="ANSWER_POSITIVELY" value="false" />
+      <option name="RECURSIVE" value="false" />
+      <option name="VERSION" />
+    </GetOptions>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/scripts/01-insert-row-rollback.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/scripts/08-insert-row8.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/scripts/01-insert-row.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="1" selection-end="72" vertical-scroll-proportion="0.022796353">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/scripts/07-insert-row7.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/scripts/06-insert-row6.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/scripts/05-insert-row5.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/scripts/04-insert-row4.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/scripts/03-insert-row3.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/scripts/02-insert-row2.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="30" selection-start="102" selection-end="102" vertical-scroll-proportion="0.08810572">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/scripts/08-insert-row8-rollback.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/scripts/09-insert-row9-rollback.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="14" selection-start="0" selection-end="64" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="29" selection-start="55" selection-end="55" vertical-scroll-proportion="0.115207374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/scripts/10-remove-a-row10.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="13" selection-start="73" selection-end="73" vertical-scroll-proportion="0.036363635">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/scripts/09-insert-row9.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="62" selection-start="59" selection-end="63" vertical-scroll-proportion="0.018181818">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor>
+            <show-content>
+              <type id="artifact" />
+              <type id="library" />
+              <type id="javaee-facet-resources" />
+              <type id="jpa-descriptors" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>demo-web-app:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.21321794" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (demo-web-app)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.21321794" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.21321794" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.21321794" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>demo-web-app</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.21321794" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20000009" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: asm:asm:3.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.21321794" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
