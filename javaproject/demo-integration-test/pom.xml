@@ -66,7 +66,7 @@
                 <!-- Ziggo: note .. port and context root (path) need to be equal to url in testPersonService class-->
                 <groupId>org.apache.tomcat.maven</groupId>
                 <artifactId>tomcat7-maven-plugin</artifactId>
-                <version>2.1</version>
+                <version>2.2</version>
                 <configuration>
                     <ignorePackaging>true</ignorePackaging>
                     <port>9090</port>
